@@ -1,7 +1,7 @@
 ---
 name: xiaodi-obsidian-brain-pro
 description: WhatsApp/Telegram → Obsidian 智能记忆增强，防幻觉纠偏，隐私脱敏，让碎碎念自动变成结构化知识（开车/工地语音输入友好）
-version: "1.1.2"
+version: "1.1.3"
 author: xiaodi
 homepage: https://github.com/mx6315909/xiaodi-obsidian-brain-pro
 metadata:
@@ -267,6 +267,7 @@ OpenClaw 项目方向需要重新审视...
 
 | 版本 | 日期 | 更新内容 |
 |------|------|----------|
+| v1.1.3 | 2026-03-28 | ⭐ 添加 tags 关键词标签，提升搜索可见度 |
 | v1.1.2 | 2026-03-28 | ⭐ SKILL.md修复 - homepage URL/安装命令/版本一致性 |
 | v1.1.1 | 2026-03-28 | ⭐ 添加路径配置警告 + 修复 homepage URL |
 | v1.1.0 | 2026-03-28 | ⭐ 新增多语言纠偏白名单 + 隐私脱敏红线 |
