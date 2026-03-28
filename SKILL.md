@@ -1,9 +1,9 @@
 ---
 name: xiaodi-obsidian-brain-pro
 description: WhatsApp/Telegram → Obsidian 智能记忆增强，防幻觉纠偏，隐私脱敏，让碎碎念自动变成结构化知识（开车/工地语音输入友好）
-version: "1.1.0"
+version: "1.1.1"
 author: xiaodi
-homepage: https://github.com/openclaw/xiaodi-obsidian-brain-pro
+homepage: https://github.com/mx6315909/xiaodi-obsidian-brain-pro
 metadata:
   openclaw:
     emoji: 🧠
@@ -145,11 +145,11 @@ metadata:
 ## 📦 安装命令
 
 ```bash
-# 一键安装（即将开放）
-openclaw skill install xiaodi-obsidian-brain-pro
+# ClawHub 一键安装
+npx clawhub@latest install xiaodi-obsidian-brain-pro
 
-# 手动安装（当前可用）
-git clone https://github.com/openclaw/xiaodi-obsidian-brain-pro.git
+# 手动安装
+git clone https://github.com/mx6315909/xiaodi-obsidian-brain-pro.git
 cd xiaodi-obsidian-brain-pro
 openclaw skill link .
 ```
@@ -181,8 +181,8 @@ openclaw skill link .
 - WhatsApp/Telegram 双渠道配置
 
 **联系方式**：
-- GitHub: [@openclaw](https://github.com/openclaw)
-- WhatsApp: +8613963767577（小弟）
+- GitHub: https://github.com/mx6315909/xiaodi-obsidian-brain-pro
+- ClawHub: https://clawhub.ai/skills/xiaodi-obsidian-brain-pro
 
 **定价**：
 - 基础部署：199 元
@@ -267,6 +267,7 @@ OpenClaw 项目方向需要重新审视...
 
 | 版本 | 日期 | 更新内容 |
 |------|------|----------|
+| v1.1.1 | 2026-03-28 | ⭐ 添加路径配置警告 + 修复 homepage URL |
 | v1.1.0 | 2026-03-28 | ⭐ 新增多语言纠偏白名单 + 隐私脱敏红线 |
 | v1.0.0 | 2026-03-28 | 初始发布：闪电入库 + 语义搜索 + 安全第一 |
 
@@ -275,7 +276,7 @@ OpenClaw 项目方向需要重新审视...
 ## 🤝 贡献
 
 欢迎提交 Issue 和 PR：
-- GitHub: https://github.com/openclaw/xiaodi-obsidian-brain-pro
+- GitHub: https://github.com/mx6315909/xiaodi-obsidian-brain-pro
 - ClawHub: https://clawhub.ai
 
 ---
