@@ -1,4 +1,4 @@
-# 🧠 Obsidian-Brain-Pro (v1.1.1)
+# 🧠 Obsidian-Brain-Pro (v1.1.2)
 
 > **拒绝 AI "爹味"润色，记录最真实的生命痕迹。**
 
