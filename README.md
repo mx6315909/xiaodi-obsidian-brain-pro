@@ -63,9 +63,25 @@
 npx clawhub@latest install xiaodi-obsidian-brain-pro
 ```
 
-### 2. 配置路径
+### 2. 配置路径 ⚠️ 必须修改！
 
-修改 `_meta.json` 中的 `obsidian_path`，指向你的 Obsidian 库。
+打开 `_meta.json`，修改 `obsidian_path` 为你的真实路径：
+
+```json
+"config": {
+  "obsidian_path": "~/Obsidian/Daily Notes"  // ❌ 默认值，需修改！
+}
+```
+
+**不同环境示例**：
+
+| 环境 | 路径示例 |
+|------|----------|
+| 群晖 NAS | `/volume1/homes/你的用户名/Obsidian/Daily Notes` |
+| Linux VPS | `/home/你的用户名/Obsidian/Daily Notes` |
+| macOS | `/Users/你的用户名/Obsidian/Daily Notes` |
+
+**注意**：`~` 在容器内会解析成 `/home/node`，不是你的真实用户目录！
 
 ### 3. 开始对话
 
