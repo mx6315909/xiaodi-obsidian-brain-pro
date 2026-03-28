@@ -1,9 +1,9 @@
 ---
-name: obsidian-brain-pro
+name: xiaodi-obsidian-brain-pro
 description: WhatsApp/Telegram → Obsidian 智能记忆增强，防幻觉纠偏，隐私脱敏，让碎碎念自动变成结构化知识（开车/工地语音输入友好）
 version: "1.1.0"
 author: xiaodi
-homepage: https://github.com/openclaw/obsidian-brain-pro
+homepage: https://github.com/openclaw/xiaodi-obsidian-brain-pro
 metadata:
   openclaw:
     emoji: 🧠
@@ -12,7 +12,7 @@ metadata:
       providers: ["ollama"]
 ---
 
-# 🧠 Obsidian-Brain-Pro（内测版）
+# 🧠 xiaodi-Obsidian-Brain-Pro（内测版）
 
 > **一句话简介**：将你的 WhatsApp/Telegram 变成 Obsidian 的"前置大脑"，支持本地 Ollama 语义检索，让碎碎念自动变成结构化知识。
 
@@ -29,7 +29,7 @@ metadata:
 
 ### 解决方案
 
-**Obsidian-Brain-Pro = WhatsApp盲发 + Ollama语义索引 + 自动标签归类 + GitHub自动备份**
+**xiaodi-Obsidian-Brain-Pro = WhatsApp盲发 + Ollama语义索引 + 自动标签归类 + GitHub自动备份**
 
 ---
 
@@ -146,11 +146,11 @@ metadata:
 
 ```bash
 # 一键安装（即将开放）
-openclaw skill install obsidian-brain-pro
+openclaw skill install xiaodi-obsidian-brain-pro
 
 # 手动安装（当前可用）
-git clone https://github.com/openclaw/obsidian-brain-pro.git
-cd obsidian-brain-pro
+git clone https://github.com/openclaw/xiaodi-obsidian-brain-pro.git
+cd xiaodi-obsidian-brain-pro
 openclaw skill link .
 ```
 
@@ -192,7 +192,7 @@ openclaw skill link .
 
 ## 📊 对比图
 
-| 功能 | 普通笔记 | Obsidian-Brain-Pro |
+| 功能 | 普通笔记 | xiaodi-Obsidian-Brain-Pro |
 |------|----------|---------------------|
 | 入库方式 | 打开电脑手写 | WhatsApp盲发 |
 | 搜索方式 | 关键词匹配（找不到） | Ollama语义检索（模糊问也能找到） |
@@ -231,7 +231,7 @@ OpenClaw 项目方向需要重新审视...
 
 ---
 
-### ✅ Obsidian-Brain-Pro（拒绝爹味）
+### ✅ xiaodi-Obsidian-Brain-Pro（拒绝爹味）
 
 ```markdown
 # 2026-03-27 随想与感悟
@@ -275,7 +275,7 @@ OpenClaw 项目方向需要重新审视...
 ## 🤝 贡献
 
 欢迎提交 Issue 和 PR：
-- GitHub: https://github.com/openclaw/obsidian-brain-pro
+- GitHub: https://github.com/openclaw/xiaodi-obsidian-brain-pro
 - ClawHub: https://clawhub.ai
 
 ---

@@ -1,4 +1,4 @@
-# 🧠 Obsidian-Brain-Pro
+# 🧠 xiaodi-obsidian-brain-pro
 
 > **拒绝 AI 爹味！这款 Obsidian 插件只记你的原话，不装逼。**
 
@@ -64,11 +64,11 @@
 
 ```bash
 # 一键安装
-openclaw skill install obsidian-brain-pro
+openclaw skill install xiaodi-obsidian-brain-pro
 
 # 手动安装
-git clone https://github.com/openclaw/obsidian-brain-pro.git
-cd obsidian-brain-pro
+git clone https://github.com/mx6315909/xiaodi-obsidian-brain-pro.git
+cd xiaodi-obsidian-brain-pro
 openclaw skill link .
 ```
 
@@ -85,7 +85,7 @@ openclaw skill link .
 ## 目录结构
 
 ```
-obsidian-brain-pro/
+xiaodi-obsidian-brain-pro/
 ├── SKILL.md              # 门面（防幻觉示例对照）
 ├── _meta.json            # 插件定义
 ├── README.md             # GitHub 发布文档

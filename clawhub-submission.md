@@ -4,7 +4,7 @@
 
 ## 标题
 
-**Obsidian-Brain-Pro: 拒绝 AI 润色的真实记忆推手**
+**xiaodi-Obsidian-Brain-Pro: 拒绝 AI 润色的真实记忆推手**
 
 ---
 
@@ -30,7 +30,7 @@
 
 ### 解决方案
 
-**Obsidian-Brain-Pro = WhatsApp 盲发 + 语音纠偏 + 隐私脱敏 + Ollama 语义索引 + GitHub 自动备份**
+**xiaodi-Obsidian-Brain-Pro = WhatsApp 盲发 + 语音纠偏 + 隐私脱敏 + Ollama 语义索引 + GitHub 自动备份**
 
 ---
 
@@ -97,11 +97,11 @@
 
 ```bash
 # 一键安装
-openclaw skill install obsidian-brain-pro
+openclaw skill install xiaodi-obsidian-brain-pro
 
 # 手动安装
-git clone https://github.com/openclaw/obsidian-brain-pro.git
-cd obsidian-brain-pro
+git clone https://github.com/openclaw/xiaodi-obsidian-brain-pro.git
+cd xiaodi-obsidian-brain-pro
 openclaw skill link .
 ```
 
@@ -136,7 +136,7 @@ openclaw skill link .
 
 ## GitHub 链接
 
-https://github.com/openclaw/obsidian-brain-pro
+https://github.com/openclaw/xiaodi-obsidian-brain-pro
 
 ---
 
